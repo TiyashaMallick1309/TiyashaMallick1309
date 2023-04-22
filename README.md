@@ -27,7 +27,7 @@ Hey, I'm Tiyasha👋
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiyashaMallick1309&repo=Python-Coursera")</p>
 
 
-<h3> Languages and Tools:</h3>
+<h3>📝 Languages and Tools:</h3>
 <a href="https://www.cprogramming.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" width="40" />
 </a>
