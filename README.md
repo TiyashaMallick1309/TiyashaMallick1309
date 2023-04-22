@@ -28,6 +28,7 @@ Hey, I'm Tiyasha👋
 
 
 <h3>📝 Languages and Tools:</h3>
+<p align="center">
 <a href="https://www.cprogramming.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" width="40" />
 </a>
@@ -52,4 +53,5 @@ Hey, I'm Tiyasha👋
 <a href="https://opencv.org/" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="40" width="40" />
 </a>
+</p>
 
