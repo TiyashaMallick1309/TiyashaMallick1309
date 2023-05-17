@@ -21,12 +21,7 @@ Hey, I'm Tiyasha👋
 <h3> 🔥 Streak Stats</h3>
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TiyashaMallick1309") </p> 
 
-
-<h3>📕 Repositories</h3>
-
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiyashaMallick1309&repo=Python-Coursera")</p>
-
-
+  
 <h3>📝 Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.cprogramming.com/" target="blank">
