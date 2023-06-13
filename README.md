@@ -49,4 +49,6 @@ Hey, I'm Tiyasha👋
 <img align="center" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="40" width="40" />
 </a>
 </p>
-
+<p>
+![](https://komarev.com/ghpvc/?username=TiyashaMallick1309)
+</p>
